@@ -3,6 +3,10 @@ This is a library for Walburn-Schneck viscosity model written based on foam-exte
 
 
 ## Mathematical Relationships
+$$ {\nu} = a_1 e^{a_2 Hct} e^{{a_4 TPMA} \over {Hct^2} } $$
+
+
+
 
 
 ## Installation
