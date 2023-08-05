@@ -1,5 +1,5 @@
 # WalburnSchneckVM
-This is a library for WalburnSchneck viscosity model written based on foam-extend-4.1.
+This is a library for Walburn-Schneck viscosity model written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
