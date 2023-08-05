@@ -1,0 +1,3 @@
+WalburnSchneckVM.C
+
+LIB = $(FOAM_USER_LIBBIN)/libWalburnSchneckVM
