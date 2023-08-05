@@ -30,6 +30,10 @@ nonNewtonianIcoFoam
 Add "libWalburnSchneckVM.so" to case/system/controlDict
 
 
+## Origin References
+* [Yilmaz, F. and Gundogdu, M.Y., 2008. A critical review on blood flow in large arteries; relevance to blood rheology, viscosity models, and physiologic conditions. Korea-Australia Rheology Journal, 20(4), pp.197-211.](https://www.academia.edu/download/37209231/Yilmaz_and_Gundogdu__2008.pdf)
+
+
 ## References
 * [Golab, Ehsan, Behzad Vahedi, Ankur Jain, Robert A. Taylor, and Kambiz Vafai. "Laminar forced convection in a tube with a nano-encapsulated phase change materials: Minimizing exergy losses and maximizing the heat transfer rate." Journal of Energy Storage 65 (2023): 107233.](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23006308)
 * [Vahedi, Behzad, Ehsan Golab, Arsalan Nasiri Sadr, and Kambiz Vafai. "Thermal, thermodynamic and exergoeconomic investigation of a parabolic trough collector utilizing nanofluids." Applied Thermal Engineering 206 (2022): 118117.](https://www.sciencedirect.com/science/article/abs/pii/S1359431122000813)
